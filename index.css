@@ -1,0 +1,17 @@
+body{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+margin: 0;
+}
+h1{
+    margin-top: 0;
+    
+    color: #000;
+}
+*{
+   box-sizing: border-box; 
+}
+img{
+    width: 100%;
+    height: auto;
+}
